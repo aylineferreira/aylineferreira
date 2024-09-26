@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning software testing and web development
 - 📫 How to reach me ... you can contact me by my email aylineferreira25@gmail.com or my linkedin Ayline Ferreira
 - 😄 Pronouns: she/her
+- Funfact: I say random data all the time
 
 
 <!---
